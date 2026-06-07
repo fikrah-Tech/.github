@@ -1,4 +1,3 @@
-# .github
 # Welcome to Fikrah Tech 👋
 
 We are dedicated to building modern, scalable, and impactful software solutions. Our focus is leveraging modern technology stacks to streamline workflows, build intelligent systems, and turn innovative ideas into high-performance applications.
